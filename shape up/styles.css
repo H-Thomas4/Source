@@ -1,0 +1,55 @@
+#btnBox {
+    border-style:hidden;
+    border-color: rgb(197, 196, 195);
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#drawBox {
+    float:right;
+    width: 600px;
+    height: 600px;
+    background: lightblue;
+    margin-right: 25px;
+}
+
+#infoBox {
+    float: left;
+    width: 300px;
+    height: 600px;
+    background: lightsalmon;
+    margin-left: 100px;
+}
+
+
+#square {
+    width: 100px;
+    height: 100px;
+    background: rgb(47, 37, 85);
+  }
+
+#rectangle {
+    width: 200px;
+    height: 100px;
+    background: rgb(44, 122, 83);
+  }
+
+
+  
+#circle {
+    width: 100px;
+    height: 100px;
+    background: rgb(153, 24, 99);
+    border-radius: 50%
+  }
+  
+  
+  
+  #triangle-up {
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid rgb(198, 219, 9);
+  }
+
