@@ -1,0 +1,11 @@
+body {
+    color: rgb(61, 5, 38);
+    background-color:pink;
+}
+
+#container {
+    display:inline-block;
+    margin: 50px;
+    padding-bottom: 50px;
+    border-style: rgb(61, 5, 38);
+}
